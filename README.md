@@ -15,4 +15,4 @@ A working demo can be found [here](http://drum-machine-sevindi.surge.sh/).
 
 **Building the application for production**
 
-    $ npm run build
+    $ npm run build.
